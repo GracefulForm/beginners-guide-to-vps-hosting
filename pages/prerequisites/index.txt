@@ -1,14 +1,1 @@
-# Prerequisites
-<!-- date: 2024-02-23 18:00:00 -->
-These are items that you want to have ready and available so you can jump into these tutorials.
 
-### Domain Name
-Your VPS needs a sub domain to use, such as server.yourdomain.com. You will need access to your domain registration control panel so you can edit your DNS settings. This is not difficult and this article will show examples. 
-
-Here is a quick page on why I use NameCheap and it includes their best coupons and deals, inlcluding $0.99 cent domains.
-
-### Command Line Utility
-I use the free/open source program called puTTy. This allows you to type codes to connect to your VPS server and install the software. It is not hard and this article will help you and give you code to copy and paste.
-
-### Time
-I know you are anxious to get started and running, but do yourself a favor and find a place and time where you won't have interruptions and you can read and learn without frustration. If you run out of time, relax and puck up where you left off when you can. It will still be there.
